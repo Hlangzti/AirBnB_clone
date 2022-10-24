@@ -1,4 +1,5 @@
-HolbertonBnB logo
+![image](https://user-images.githubusercontent.com/104855443/197494247-069e35c3-3300-4d91-90b4-9da463fcc390.png)
+
 
 HolbertonBnB
 An AirBnB clone.
