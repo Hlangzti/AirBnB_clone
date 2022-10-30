@@ -89,6 +89,7 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 
-## Authors :black_nib:
-
+## Authors :
+Hlangalwandile Siyo<Hlangzti@gmail.com>
+Lynn Situma Situma<situmalynn9@gmail.com>
 
